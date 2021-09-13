@@ -15,3 +15,7 @@ Clone this repo and then run `npm install`. If you want to add some fake data to
 ![home](./assets/home.png)
 ![new-workout](./assets/new-workout.png)
 ![dashboard](./assets/dashboard.png)
+
+# Deployment
+
+The app is deployed [here](https://jack-workout-tracker.herokuapp.com/)
